@@ -1,0 +1,9 @@
+Ejercicio Individual
+Cada uno tiene un repositorio de bitbucket:
+https://bitbucket.lima.bcp.com.pe/projects/LKDVDDVBCP/repos/ddv_bcp_integration_poc_barbara/browse
+https://bitbucket.lima.bcp.com.pe/projects/LKDVDDVBCP/repos/ddv_bcp_integration_poc_victor/browse
+https://bitbucket.lima.bcp.com.pe/projects/LKDVDDVBCP/repos/ddv_bcp_integration_poc_ricardo/browse
+https://bitbucket.lima.bcp.com.pe/projects/LKDVDDVBCP/repos/ddv_bcp_integration_poc_iver/browse
+Deben tomar como plantilla base la rama “plantilla_actualizada” del repo de devsecops https://bitbucket.lima.bcp.com.pe/projects/LKDVDDVBCP/repos/a_ddv_plantilla_actualizada/browse
+Generar los job pipeline en jenkis (DEV, CERT, PROD) https://jenkins.lima.bcp.com.pe/job/LKDV_BCP-DEV/
+Pueden hacer uso de AUTODOC para los puntos anteriores: https://bitbucket.lima.bcp.com.pe/projects/LKDVBCP/repos/bcpserver-autodoc-release/browse
